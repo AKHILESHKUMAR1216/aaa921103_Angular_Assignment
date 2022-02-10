@@ -1,0 +1,2 @@
+# aaa921103_Angular_Assignment
+Static website|springboot|Fullstack applications
